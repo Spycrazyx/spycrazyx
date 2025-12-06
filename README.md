@@ -1,9 +1,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Spezex!
 
-I'm currently working on hezux cheats. I´m from in Prague, Czechia.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-I've had the chance to work on a wide range of projects from security-focused tools to Discord automation and game related utilities, always aiming to build smarter solutions and push my skills further.✨
+I'm currently working on hezux cheats. I´m from in Prague, Czechia. I've had the chance to work on a wide range of projects from security-focused tools to Discord automation and game related utilities, always aiming to build smarter solutions and push my skills further.✨
 
 ### What I'm focusing on 🧑‍💻⚡️
 
