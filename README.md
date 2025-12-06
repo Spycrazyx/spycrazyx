@@ -7,12 +7,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I'm currently working on hezux cheats. I´m from in Prague, Czechia. I've had the chance to work on a wide range of projects from security-focused tools to Discord automation and game related utilities, always aiming to build smarter solutions and push my skills further.✨
 
 ---
 
-### What I'm focusing on 🧑‍💻⚡️
+### What I'm focusing on
 
 I'm currently sharpening my English and leveling up my development stack, especially JavaScript, PHP, and Flutter.
 At the same time, I'm expanding into ReactJS and React Native, while continuing my journey into C++, Windows internals, reverse engineering, and security-oriented development — the areas where many of my projects thrive. <br />
