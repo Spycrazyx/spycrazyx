@@ -10,7 +10,7 @@ I'm currently sharpening my English and leveling up my development stack, especi
 At the same time, I'm expanding into ReactJS and React Native, while continuing my journey into C++, Windows internals, reverse engineering, and security-oriented development — the areas where many of my projects thrive. <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+```console
     \            _    _            _    
      \          | |  | |          | |   
       \\        | |__| | __ _  ___| | __
@@ -39,3 +39,4 @@ At the same time, I'm expanding into ReactJS and React Native, while continuing 
  |  \/  |   /_\   \ \/ / |_ _| / __|   /_\   | \| | |   \   / _ \  \ \ / /   /_\   | |    |__ / |__  |
  | |\/| |  / _ \   >  <   | |  \__ \  / _ \  | .` | | |) | | (_) |  \ V /   / _ \  | |__   |_ \   / / 
  |_|  |_| /_/ \_\ /_/\_\ |___| |___/ /_/ \_\ |_|\_| |___/   \___/    \_/   /_/ \_\ |____| |___/  /_/  
+```
