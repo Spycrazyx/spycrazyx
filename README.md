@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spezex</h1>
 
-- I’m currently working on [Hezux cheats](https://hezuxcheats.xyz)
 
-- I’m currently learning **more about javascript and starting with c++**
+I'm a cheat seller who provides temp spoofers, perm spoofers, Fortnite cheats, and similar products. I'm moderately known — not by everyone, but by a decent number of people. I enjoy coding in HTML and CSS, and this year I'm slowly learning C++. I'm on the path to becoming more recognized and respected in the community. If you need anything, feel free to reach out to me!
 
 - You can reach me **on discord under the name spezexxx**
 
