@@ -1,5 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Spezex!
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 I'm currently working on hezux cheats. I´m from in Prague, Czechia.
 
 I've had the chance to work on a wide range of projects from security-focused tools to Discord automation and game related utilities, always aiming to build smarter solutions and push my skills further.✨
@@ -8,6 +9,7 @@ I've had the chance to work on a wide range of projects from security-focused to
 
 I'm currently sharpening my English and leveling up my development stack, especially JavaScript, PHP, and Flutter.
 At the same time, I'm expanding into ReactJS and React Native, while continuing my journey into C++, Windows internals, reverse engineering, and security-oriented development — the areas where many of my projects thrive. <br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Find me elsewhere 🌎
 
