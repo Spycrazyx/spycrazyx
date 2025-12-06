@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Spezex</h1>
-<h3 align="center">A Cheat Seller & Developer</h3>
 
 - I’m currently working on [Hezux cheats](https://hezuxcheats.xyz)
 
