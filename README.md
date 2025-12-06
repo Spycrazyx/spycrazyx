@@ -19,6 +19,13 @@ At the same time, I'm expanding into ReactJS and React Native, while continuing 
 
 ---
 
+## 💬 Connect With Me
+
+- **Signal:** `https://discord.gg/Jqst6UWMTU`  
+- **Discord:** `spezexxx`  
+
+---
+
 ```console
   _     _   _                 _____                             _                _                         
  | |   | | | |               / / / |                           | |              | |                        
