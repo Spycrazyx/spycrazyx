@@ -19,6 +19,12 @@ At the same time, I'm expanding into ReactJS and React Native, while continuing 
 
 ---
 
+## 🛠 Skills
+Bit of C++, Java, HTML, CSS, PHP 
+Reverse Engineering • Game Hacking
+
+---
+
 ## 💬 Connect With Me
 
 - **Signal:** `https://discord.gg/Jqst6UWMTU`  
