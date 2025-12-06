@@ -17,6 +17,17 @@ I'm currently working on hezux cheats. I´m from in Prague, Czechia. I've had th
 I'm currently sharpening my English and leveling up my development stack, especially JavaScript, PHP, and Flutter.
 At the same time, I'm expanding into ReactJS and React Native, while continuing my journey into C++, Windows internals, reverse engineering, and security-oriented development — the areas where many of my projects thrive. <br />
 
+
+---
+
+## 🔭 Projects
+
+- **Current Project:** [Hezux Esports (Cheats)](https://hezuxcheats.xyz)
+- **Previous Work:**
+  - Senthix (Fully discontinued)
+  - echox (Fully discontinued)
+  - several private projects between **2022 – 2023** (Fully discontinued)
+
 ---
 
 ## 🛠 Skills
