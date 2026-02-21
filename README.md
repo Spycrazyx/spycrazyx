@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I'm currently working on hezux cheats. I´m from in Prague, Czechia. I've had the chance to work on a wide range of projects from security-focused tools to Discord automation and game related utilities, always aiming to build smarter solutions and push my skills further.✨
+I'm currently working on [Revision Esports (Cheats)](https://revision.wtf). I´m from in Prague, Czechia. I've had the chance to work on a wide range of projects from security-focused tools to Discord automation and game related utilities, always aiming to build smarter solutions and push my skills further.✨
 
 ---
 
@@ -22,8 +22,9 @@ At the same time, I'm expanding into ReactJS and React Native, while continuing 
 
 ## 🔭 Projects
 
-- **Current Project:** [Hezux Esports (Cheats)](https://hezuxcheats.xyz)
+- **Current Project:** [Revision Esports (Cheats)](https://revision.wtf)
 - **Previous Work:**
+  - Hezux (Fully discontinued)
   - Senthix (Fully discontinued)
   - echox (Fully discontinued)
   - several private projects between **2022 – 2023** (Fully discontinued)
@@ -38,7 +39,7 @@ Reverse Engineering • Game Hacking
 
 ## 💬 Connect With Me
 
-- **Signal:** `https://discord.gg/Jqst6UWMTU`  
+- **Signal:** `https://discord.gg/revisionud`  
 - **Discord:** `spezexxx`  
 
 ---
