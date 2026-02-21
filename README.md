@@ -79,7 +79,7 @@ Reverse Engineering • Game Hacking
 ```
 
 <p align="center">
-  <a href="https://hezuxcheats.xyz/discord"><img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"></a>
+  <a href="https://discord.gg/revisionud"><img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"></a>
   <br><br>
   <i>Stay connected. Stay updated. Stay ahead.</i>
 </p>
